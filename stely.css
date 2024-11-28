@@ -1,0 +1,48 @@
+h1{
+    border-radius: 20px;
+    background-color: aquamarine;
+    color: black;
+    text-align: center;
+    border: 5px solid red;
+}
+.yellow{
+    background-color: yellow;
+}
+.red{
+    color: rgb(155, 21, 21);
+}
+h2{
+    color: green;
+}
+.green{
+    color: green;
+    background-color: yellow    ;
+    text-align: center;
+    font-size: 30px;
+}
+
+.photo{
+    text-align: center;
+   
+}
+img{
+ height: 400px;
+}
+.white{
+    width:75%;
+    height:40px ;
+}
+
+
+.btn{
+    background-color: blue;
+    color: white;
+    width: 400px;
+    height: 60px;
+    font-size: 30px;
+}
+.q{
+    border-radius: 100px;
+    width: 8px;
+    height: 10px;
+}
